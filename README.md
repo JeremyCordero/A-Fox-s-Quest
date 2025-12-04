@@ -28,6 +28,8 @@ Open Controls Menu: H
 Project issues:
 This project was created by a single developer (me) under significant time constraints. As a result, several known limitations exist:
 Levels are not dynamic — they do not generate random layouts, and the structure remains the same on each playthrough.
+
+Link to github:https://github.com/JeremyCordero/A-Fox-s-Quest
 Difficulty remains mostly static, as new enemy patterns or extended platform sections were not implemented.
 Animations are limited, and some visual effects could not be completed.
 Expanding level variety or adding procedural generation was not possible during development.
